@@ -1,0 +1,37 @@
+/* Reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* Header */
+header{
+    width: 100%;
+    height: 20px;
+
+    /* test */
+
+    background-color: pink;
+}
+
+/* Main */
+main{
+    width: 100%;
+    height: calc(100vh - 80px);
+
+    /* Test */
+    background-color: chartreuse;
+}
+
+/* Footer */
+footer{
+    width: 100%;
+    height: 60px;
+
+    /* Test */
+    background-color: coral;
+}
+
+
